@@ -1,5 +1,3 @@
-
-
 def nyc_pigeon_organizer(data)
   all_names = {}
   
